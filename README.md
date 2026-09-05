@@ -1,10 +1,10 @@
 # 👋 Hey, I'm Josh
 
-🛡️ SecOps by trade, engineer by habit. Helping enterprises get the most out of their security stack — detection, logging pipelines, and the tooling that runs them.
+🛡️ SecOps by trade, engineer by habit. Helping enterprises get the most out of their security stack: detection, logging pipelines, and the tooling that runs them.
 
 ## 🧰 Around here
 
-- 🏠 Homelab addict — Proxmox, Docker, TrueNAS, and a few AI agents that keep it honest
+- 🏠 Homelab addict: Proxmox, Docker, TrueNAS, and a few AI agents that keep it honest
 - 🔧 Small tools that solve one problem: audio routing, budget tracking, media automation
 - 📝 If it isn't documented, it isn't done
 

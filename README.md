@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Josh
 
-🛡️ SecOps by trade, engineer by habit. Detection, logging pipelines, and the tooling that runs them.
+🛡️ SecOps by trade, engineer by habit. Helping enterprises get the most out of their security stack — detection, logging pipelines, and the tooling that runs them.
 
 ## 🧰 Around here
 
